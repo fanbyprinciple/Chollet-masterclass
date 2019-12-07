@@ -2,4 +2,6 @@ The rest of the theory just vanished in thin air but the thing is the book is qu
 
 feature engineering is manually finding features for classification.
 
+ImageDataGenerator is used to create more training data by trandforming the current training data.
+
 
