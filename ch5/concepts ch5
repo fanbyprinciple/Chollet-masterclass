@@ -4,4 +4,17 @@ feature engineering is manually finding features for classification.
 
 ImageDataGenerator is used to create more training data by trandforming the current training data.
 
+a pretrained network is a network that was typically trained on a largenetwork.
+
+The author covers VGG16 architecture.
+
+Two ways to use a pretrained network-
+1. feature extraction
+2. fine-tuning
+
+feature extraction: in CNN, before we flatten and use dense layer the layersabove it are known as convolutional base.
+
+we dont retain the dense layers, because convolutional base are more generic features, since in dense layers they loose all features that affect space.
+
+
 
