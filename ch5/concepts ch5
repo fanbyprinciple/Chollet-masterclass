@@ -16,5 +16,12 @@ feature extraction: in CNN, before we flatten and use dense layer the layersabov
 
 we dont retain the dense layers, because convolutional base are more generic features, since in dense layers they loose all features that affect space.
 
+we can visualise  intermediate covnet outputs
+covnet filters
+visualising heatmaps of class activation of image
+
+
+
+
 
 
