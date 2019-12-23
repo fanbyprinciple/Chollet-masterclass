@@ -1,0 +1,19 @@
+Text a sequence of characters. Text recognition is closely associated with pattern recognition.
+
+used in : document classification, sentiment analyses, author identification , QA projects.
+
+vecotorizing text for deep learning :
+    1. Segment text into words, transform word into a vector
+    2. Segment text into character and transform
+    3. Extract n-grams of words or characters, and transform each n-gram into a vector. Ngramgs are overlapping groups of multiple consecutive characters.
+    
+different units we break down characters/words are called as tokens
+
+two ways to fed into deep neural network: 
+1. hot encoding 
+2. token embedding
+
+bag of words is synonymous with bag of grams (as in n-gram). its not a order preserving method of tokenisation
+
+
+
