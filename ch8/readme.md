@@ -3,9 +3,17 @@
 ## LSTM
 
 At epoch 1:
-![](initiallstm.png)
+![](./lstm/initiallstm.png)
 
 After 30 epoch training:
 have to say not much of improvement.
 
-![](finallstm.gif)
+![](./lstm/finallstm.gif)
+
+## DeepDream
+
+Actual image:
+![](./Deepdream/sunset.jpg)
+
+Deepdream image:
+![](./Deepdream/final_dream.jpg)
