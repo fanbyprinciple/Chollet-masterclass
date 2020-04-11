@@ -13,7 +13,11 @@ have to say not much of improvement.
 ## DeepDream
 
 Actual image:
+
 ![](./Deepdream/sunset.jpg)
+![](./Deepdream/chiku.jpg)
 
 Deepdream image:
+
 ![](./Deepdream/final_dream.jpg)
+![](./Deepdream/final_chiku.jpg)
