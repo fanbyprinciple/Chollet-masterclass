@@ -19,5 +19,5 @@ Actual image:
 
 Deepdream image:
 
-![](./Deepdream/final_dream.jpg)
-![](./Deepdream/final_chiku.jpg)
+![](./Deepdream/final_dream.png)
+![](./Deepdream/final_chiku.png)
