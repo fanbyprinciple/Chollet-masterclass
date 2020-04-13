@@ -23,11 +23,11 @@ Deepdream image:
 ## Style Transfer
 
 Initial content image:
-![](./Style_Transfer/achu.jpg)
+![](./Style-Transfer/achu.jpg)
 
 Initial style image:
-![](./Style_Transfer/picasso.jpg)
+![](./Style-Transfer/picasso.jpg)
 
 final image:
-![](./Style_Transfer/other_results/picasso_achu.png)
+![](./Style-Transfer/other_results/picasso_achu.png)
 
