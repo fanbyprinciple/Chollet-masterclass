@@ -26,8 +26,8 @@ Initial content image:
 ![](./Style_Transfer/achu.jpg)
 
 Initial style image:
-![](./Style_transfer/picasso.jpg)
+![](./Style_Transfer/picasso.jpg)
 
 final image:
-![](./Style_transfer/other_results/picasso_achu.png)
+![](./Style_Transfer/other_results/picasso_achu.png)
 
