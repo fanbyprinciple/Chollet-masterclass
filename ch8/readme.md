@@ -15,9 +15,19 @@ have to say not much of improvement.
 Actual image:
 
 ![](./Deepdream/sunset.jpg)
-![](./Deepdream/chiku.jpg)
 
 Deepdream image:
 
 ![](./Deepdream/final_dream.png)
-![](./Deepdream/final_chiku.png)
+
+## Style Transfer
+
+Initial content image:
+![](./Style_Transfer/achu.jpg)
+
+Initial style image:
+![](./Style_transfer/picasso.jpg)
+
+final image:
+![](./Style_transfer/other_results/picasso_achu.png)
+
