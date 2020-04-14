@@ -29,5 +29,12 @@ Initial style image:
 ![](./Style-Transfer/picasso.jpg)
 
 final image:
+
 ![](./Style-Transfer/other_results/picasso_achu.png)
+
+
+## Variational autoencoder
+To do : work with celeb faces
+
+![](./variational_autoencoder/fashion.png)
 
