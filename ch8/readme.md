@@ -38,3 +38,12 @@ To do : work with celeb faces
 
 ![](./variational_autoencoder/fashion.png)
 
+## Generational Adverserial Networks
+
+After 30 iterations,
+real image:
+![](./gan/real30.png)
+
+generated image:
+![](./gan/30.png)
+
