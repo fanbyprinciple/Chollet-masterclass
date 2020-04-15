@@ -47,3 +47,6 @@ real image:
 generated image:
 ![](./gan/30.png)
 
+After 100 iterations,
+Randomly generated image:
+![](./gan/100.png)
